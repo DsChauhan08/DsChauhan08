@@ -16,9 +16,9 @@ Currently improving my JavaScript and skills, specially learning C++ .<br />
 
 - 📫 How to reach me: [Discord](https://discord.gg/AMEbC75Nuf)
 
-- 😄 Pronouns: He / OH!BOY
+- 😄 Pronouns: Founder
 
-- ⚡ Fun fact: I am a 12 year kid
+- ⚡ Fun fact: I Started a company at age of 12
 
 
 ### Check Out Some Of My Works 
