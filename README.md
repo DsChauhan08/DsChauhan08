@@ -1,10 +1,12 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Dhananjay Singh Chauhan! 
+Founder, CEO, Director, Shareholder NOVUSz .Ltd
+
 I work as a ~~web designer~~ front-end developer with UI/UX design skills (front-end designer). I´m based in UP, India. Since 2019 I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
 ### What I'm focusing on 👨‍💻 
 Currently improving my JavaScript and skills, specially learning C++ .<br />
 <!-- BLOG-POST-LIST:START -->
 ### About Me
-- 🔭 I’m currently working on Quizzard Bot on discord
+- 🔭 I’m currently working on VPN services 
 
 - 🌱 I’m currently learning C++
 
