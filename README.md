@@ -4,22 +4,6 @@ I work as a ~~web designer~~ front-end developer with UI/UX design skills (front
 ### What I'm focusing on 👨‍💻 
 Currently improving my JavaScript and skills, specially learning C++ .<br />
 <!-- BLOG-POST-LIST:START -->
-### About Me
-- 🔭 I’m currently working on VPN services 
-
-- 🌱 I’m currently learning C++
-
-- 👯 I’m looking to collaborate on Web Development 
-
-- 💬 Ask me questions on my [Gmail](singhdschauhan10@gmail.com) 
-
-- 📫 How to reach me: [Discord](https://discord.gg/AMEbC75Nuf)
-
-- 😄 Pronouns: Founder
-
-- ⚡ Fun fact: I Started a company at age of 12
-
-
 ### Check Out Some Of My Works 
 - [Quiz Bot for Discord in JavaScript](https//github.com/DsChauhan08/Discord-Trivia-Bot) - 
 - [Car race Game for Windows written in C lang. in 22 Days](https://github.com/DsChauhan08/Car_Race) - 
