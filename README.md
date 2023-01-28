@@ -1,6 +1,15 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Dhananjay Singh Chauhan! 
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Dhananjay Singh Chauhan!
+
+
 
 I am a high school student based in Massachusetts with 4 years of experience in programming. My expertise is in Front-end development, and I am currently learning Backend development. I am passionate about technology and am always looking for new projects to collaborate on.
+
+<br>
+
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhdschauhan10@gmail.com)
+
+[![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:singhdschauhan10@outlook.com)
+
 
 ## Skills
 
