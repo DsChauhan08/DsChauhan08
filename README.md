@@ -1,8 +1,22 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Dhananjay Singh Chauhan! 
 
-I work as a ~~web designer~~ front-end developer with UI/UX design skills (front-end designer). I´m based in UP, India. Since 2019 I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
-### What I'm focusing on 👨‍💻 
-Currently improving my JavaScript and skills, specially learning C++ .<br />
+I am a high school student based in Massachusetts with 4 years of experience in programming. My expertise is in Front-end development, and I am currently learning Backend development. I am passionate about technology and am always looking for new projects to collaborate on.
+
+## Skills
+- HTML
+- CSS
+- JavaScript
+- React 
+- Redux
+- Node.js
+
+## Current Project
+I am currently working on a project for the Developers Week Hackathon 2023.
+
+## Collaborations
+If you are interested in collaborating with me on a project, please feel free to contact me on Github. I am always open to new ideas and opportunities to learn and grow as a developer.
+
+<br />
 <!-- BLOG-POST-LIST:START -->
 ### Check Out Some Of My Works 
 - [Quiz Bot for Discord in JavaScript](https//github.com/DsChauhan08/Discord-Trivia-Bot) - 
