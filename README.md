@@ -28,8 +28,6 @@ will_learn: ["Blockchain (backend)"]
 
 # Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dschauhan08&theme=highcontrast&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dschauhan08&hide=c%23,Javascript,CSS,Html,C++,%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
