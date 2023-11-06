@@ -50,7 +50,7 @@ https://www.freecodecamp.org/
 
 ## From-cover-to-cover
 <pre>
-<i>Grokking Algorithms</i>                                              by A. Bhargava 🙏🐙Cthulhu bless the author
+<i>Grokking Algorithms</i>                                              by A. Bhargava 
 <i> Design Patterns: Elements of Reusable Object-Oriented Software </i>
 <i>The Lucifer effect</i>                                               by Philips Zimbardo
 <i>Autopsy of Sucidal Mind</i>                                          by Edwin S.
