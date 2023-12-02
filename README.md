@@ -74,6 +74,8 @@ https://www.freecodecamp.org/
 
 </pre>
 
+# Random Joke
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
   # Contact me
