@@ -1,25 +1,19 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;it's+Dhananjay+Singh....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Howdy!+👋;it's+Dhananjay......;&center=true&size=30">
   </a>
 </h1>
 
-```yaml
-name: Dhananjay Singh Chauhan
-age: I won't tell
-located_in: I won't tell 
-education: ["High School Freshman 2023"]
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+  
+  - 𝙽𝚊𝚖𝚎: 𝙳𝚑𝚊𝚗𝚊𝚗𝚓𝚊𝚢 𝚂𝚒𝚗𝚐𝚑 𝙲𝚑𝚊𝚞𝚑𝚊𝚗
+  - 𝙻𝚘𝚌𝚊𝚝𝚒𝚘𝚗: 𝙸 𝚠𝚘𝚗'𝚝 𝚝𝚎𝚕𝚕 𝚢𝚘𝚞
+  - 𝙴𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗: ["𝙷𝚒𝚐𝚑 𝚂𝚌𝚑𝚘𝚘𝚕 𝙵𝚛𝚎𝚜𝚑𝚖𝚊𝚗 𝟸𝟶𝟸𝟹]
+  - 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢_𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐: [ "𝚂𝚟𝚎𝚕𝚝𝚎", "𝙽𝚘𝚍𝚎.𝚓𝚜"]
+  - 𝚏𝚒𝚎𝚕𝚍𝚜_𝚘𝚏_𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜/𝚑𝚘𝚋𝚋𝚒𝚎𝚜: ["𝙲𝚑𝚎𝚜𝚜", "𝚁𝚎𝚊𝚍𝚒𝚗𝚐", "𝙼𝚒𝚡𝚎𝚍 𝙼𝚊𝚛𝚝𝚒𝚊𝚕 𝙰𝚛𝚝𝚜", "𝙳𝚎𝚜𝚒𝚐𝚗 𝙿𝚕𝚊𝚗𝚗𝚒𝚗𝚐","𝙶𝚊𝚖𝚒𝚗𝚐", "𝚆𝚎𝚋 𝙳𝚎𝚜𝚒𝚐𝚗𝚒𝚗𝚐", "𝚂𝚝𝚊𝚛𝚝𝚞𝚙 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙲𝚛𝚎𝚊𝚝𝚒𝚘𝚗"]
 
-fields_of_interests/hobbies: ["Chess", "Reading", "Mixed Martial Arts", "Design Planning", 
-                      "Gaming", "Web Designing", "Startup Software Creation"]
-
-currently_learning: [ "React", "Node.js"]
-will_learn: ["Blockchain (backend)"]
-
-```
-
-
+    ﹍ⲯ﹍ⲯ﹍︿﹍☼
 
 # Stack
 <img title="linux" alt="linux" height="50px" src="logo/linux-logo.png" /><img title="bash" alt="bash" height="50px" src="logo/bash-logo.png" /> <img title="vsc" alt="vsc" height="50px" src="logo/vsc-logo.png" />  <img title="html css js" alt="html css js" height="50px" src="logo/html-css-js-logo.png" /> <img title="react" alt="react" height="50px" src="logo/react-logo.png" /><img title="bootstrap" alt="bootstrap" height="50px" src="logo/bootstrap-logo.png" /> <img title="figma" alt="figma" height="50px" src="logo/figma-logo.png" /> <img title="github" alt="github" height="50px" src="logo/github-logo.png" />
@@ -73,13 +67,11 @@ https://www.freecodecamp.org/
 
 </pre>
 
+  
 # Random Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-  # Contact me
-📧<a href="mailto:singhdschauhan10@gmail.com">Email</a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📱<a href="https://www.instagram.com/olivermmamind/">Fake Instagram </a> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
