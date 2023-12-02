@@ -12,14 +12,16 @@
   - 𝙴𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗: 𝙷𝚒𝚐𝚑 𝚂𝚌𝚑𝚘𝚘𝚕 𝙵𝚛𝚎𝚜𝚑𝚖𝚊𝚗 𝟸𝟶𝟸𝟹]
   - 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢_𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐: 𝚂𝚟𝚎𝚕𝚝𝚎, 𝙽𝚘𝚍𝚎.𝚓𝚜
   - Ask me about:  Philosophy, Psychology, 𝙼𝚒𝚡𝚎𝚍 𝙼𝚊𝚛𝚝𝚒𝚊𝚕 𝙰𝚛𝚝𝚜, 𝙳𝚎𝚜𝚒𝚐𝚗, 𝙶𝚊𝚖𝚒𝚗𝚐, 𝚆𝚎𝚋 𝙳𝚎𝚜𝚒𝚐𝚗𝚒𝚗𝚐, 𝚂𝚝𝚊𝚛𝚝𝚞𝚙 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙲𝚛𝚎𝚊𝚝𝚒𝚘𝚗
-```
+
+## About me 
+
 𝙽𝚘𝚝 𝚢𝚘𝚞𝚛 𝚓𝚞𝚜𝚝 𝚊𝚗𝚘𝚝𝚑𝚎𝚛 𝚑𝚒𝚐𝚑-𝚜𝚌𝚑𝚘𝚘𝚕 𝚏𝚛𝚎𝚜𝚑𝚖𝚊𝚗;
 𝙸 𝚊𝚖 𝚊 𝚊𝚖𝚒𝚍 𝚛𝚎𝚊𝚍𝚎𝚛, 𝙿𝚑𝚒𝚕𝚘𝚜𝚘𝚙𝚑𝚎𝚛, 𝚆𝚛𝚒𝚝𝚎𝚛 𝚊𝚗𝚍 𝚂𝚃𝙴𝙼 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚠𝚑𝚘 𝚜𝚘𝚖𝚎𝚝𝚒𝚖𝚎𝚜 𝚕𝚘𝚟𝚎𝚜 𝚝𝚘 𝚠𝚛𝚒𝚝𝚎 𝚌𝚘𝚍𝚎.
 
 𝙾𝚗𝚕𝚢 𝚘𝚗𝚎 𝚖𝚘𝚝𝚝𝚘 𝚒𝚗 𝚕𝚒𝚏𝚎: 𝚂𝚝𝚛𝚒𝚟𝚎 𝚏𝚘𝚛 𝙶𝚛𝚎𝚊𝚝𝚗𝚎𝚜𝚜 𝚗𝚘𝚝 𝚙𝚘𝚠𝚎𝚛.
 
 𝙿𝚘𝚝𝚎𝚗𝚝𝚒𝚊𝚕 𝚏𝚞𝚝𝚞𝚛𝚎: 𝚂𝚝𝚊𝚛𝚝𝚒𝚗𝚐 𝚊 𝚄𝚗𝚒𝚌𝚘𝚛𝚗 𝚏𝚛𝚘𝚖 𝙷𝚊𝚛𝚟𝚊𝚛𝚍 𝙳𝚘𝚛𝚖 𝚁𝚘𝚘𝚖.
-```
+
 # Stack
 <img title="linux" alt="linux" height="50px" src="logo/linux-logo.png" /><img title="bash" alt="bash" height="50px" src="logo/bash-logo.png" /> <img title="vsc" alt="vsc" height="50px" src="logo/vsc-logo.png" />  <img title="html css js" alt="html css js" height="50px" src="logo/html-css-js-logo.png" /> <img title="react" alt="react" height="50px" src="logo/react-logo.png" /><img title="bootstrap" alt="bootstrap" height="50px" src="logo/bootstrap-logo.png" /> <img title="figma" alt="figma" height="50px" src="logo/figma-logo.png" /> <img title="github" alt="github" height="50px" src="logo/github-logo.png" />
 
