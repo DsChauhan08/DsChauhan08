@@ -79,7 +79,7 @@ https://www.freecodecamp.org/
 
 
   # Contact me
-📧<a href="mailto:singhdschauhan10@gmail.com">Email</a> me &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📱<a href="https://t.me/chauhan2008">Telegram</a> me
+📧<a href="mailto:singhdschauhan10@gmail.com">Email</a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📱<a href="https://www.instagram.com/olivermmamind/">Fake Instagram </a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 <p align="center">
