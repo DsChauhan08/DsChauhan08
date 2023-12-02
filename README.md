@@ -7,9 +7,8 @@
 
 ```yaml
 name: Dhananjay Singh Chauhan
-age: 14
-located_in: Not availble 
-from: not availble 
+age: I won't tell
+located_in: I won't tell 
 education: ["High School Freshman 2023"]
 
 fields_of_interests/hobbies: ["Chess", "Reading", "Mixed Martial Arts", "Design Planning", 
