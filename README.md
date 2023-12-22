@@ -71,7 +71,6 @@ https://www.freecodecamp.org/
 <i>Modern Full-Stack Development</i>                                  
 
 </pre>
-
   
 # Random Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api)
