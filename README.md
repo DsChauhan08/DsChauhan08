@@ -43,7 +43,7 @@
 <pre>
 https://learn.javascript.ru/
 https://www.freecodecamp.org/
-<i>30 Days of React</i>                    
+<i>Project Odin</i>                    
 <i>Meditation by Marcus Aurelius</i>
 <i>Think and Grow Rich</i>
 <i>Shreemad Bhagwat Geeta</i>
@@ -53,10 +53,7 @@ https://www.freecodecamp.org/
 <pre>
 <i>Grokking Algorithms</i>
 <i>Design Patterns: Elements of Reusable Object-Oriented Software </i>
-<i>Discourses by Epictetus</i>                                               
-<i>Autopsy of Sucidal Mind</i>                                          
-<i>How to analyze people</i>                                            
-<i>48 Laws of Power</i>                                                
+<i>Discourses by Epictetus</i>                                                                                                                                       
 <i>Javascript: The good part</i> 
 </pre>
 
@@ -74,8 +71,6 @@ https://www.freecodecamp.org/
   
 # Random Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
