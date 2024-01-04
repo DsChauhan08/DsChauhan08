@@ -70,7 +70,9 @@ https://www.freecodecamp.org/
 </pre>
   
 # Random Joke
+<p align="center">
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
