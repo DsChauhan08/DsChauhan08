@@ -4,6 +4,12 @@
   </a>
 </h1>
 
+<h5 align="center">
+  <code><a href="mailto:singhdschauhan10@gmail.com" title="Gmail"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"> Gmail</a></code>
+  <code><a href="https://hackerone.com/dschauhan08" title="HackerOne Profile"><img width="22" src="https://www.svgrepo.com/show/349400/hackerone.svg"> HackerOne</a></code>
+  <code><a href="https://stackoverflow.com/users/23200727/dhananjay-singh-chauhan" title="Stack Overflow Profile"><img width="22" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg"> Stack Overflow</a></code>
+</h5>
+
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
   - 𝙽𝚊𝚖𝚎: 𝙳𝚑𝚊𝚗𝚊𝚗𝚓𝚊𝚢 𝚂𝚒𝚗𝚐𝚑 𝙲𝚑𝚊𝚞𝚑𝚊𝚗
