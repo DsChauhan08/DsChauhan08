@@ -13,7 +13,6 @@
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
   - 𝙽𝚊𝚖𝚎: 𝙳𝚑𝚊𝚗𝚊𝚗𝚓𝚊𝚢 𝚂𝚒𝚗𝚐𝚑 𝙲𝚑𝚊𝚞𝚑𝚊𝚗
-  - 𝙻𝚘𝚌𝚊𝚝𝚒𝚘𝚗: 𝙸 𝚠𝚘𝚗'𝚝 𝚝𝚎𝚕𝚕 𝚢𝚘𝚞
   - 𝙴𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗: 𝙷𝚒𝚐𝚑 𝚂𝚌𝚑𝚘𝚘𝚕 𝙵𝚛𝚎𝚜𝚑𝚖𝚊𝚗 𝟸𝟶𝟸𝟹
   - 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢_𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐: 𝚂𝚟𝚎𝚕𝚝𝚎, 𝙽𝚘𝚍𝚎.𝚓𝚜
 
