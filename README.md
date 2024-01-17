@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Howdy!+👋;it's+Dhananjay......;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Howdy!+👋;it's+Dhananjay......;&center=true&size=35">
   </a>
 </h1>
 
@@ -10,11 +10,10 @@
   <code><a href="https://stackoverflow.com/users/23200727/dhananjay-singh-chauhan" title="Stack Overflow Profile"><img width="22" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg"> Stack Overflow</a></code>
 </h5>
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
   - 𝙽𝚊𝚖𝚎: 𝙳𝚑𝚊𝚗𝚊𝚗𝚓𝚊𝚢 𝚂𝚒𝚗𝚐𝚑 𝙲𝚑𝚊𝚞𝚑𝚊𝚗
   - 𝙴𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗: 𝙷𝚒𝚐𝚑 𝚂𝚌𝚑𝚘𝚘𝚕 𝙵𝚛𝚎𝚜𝚑𝚖𝚊𝚗 𝟸𝟶𝟸𝟹
-  - 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢_𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐: 𝚂𝚟𝚎𝚕𝚝𝚎, 𝙽𝚘𝚍𝚎.𝚓𝚜
+  - 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐: 𝚂𝚟𝚎𝚕𝚝𝚎, 𝙽𝚘𝚍𝚎.𝚓𝚜
 
 ## About me 
 
@@ -22,8 +21,6 @@
 𝙸 𝚊𝚖 𝚊 𝚊𝚖𝚒𝚍 𝚛𝚎𝚊𝚍𝚎𝚛, 𝙿𝚑𝚒𝚕𝚘𝚜𝚘𝚙𝚑𝚎𝚛, 𝚆𝚛𝚒𝚝𝚎𝚛 𝚊𝚗𝚍 𝚂𝚃𝙴𝙼 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚠𝚑𝚘 𝚜𝚘𝚖𝚎𝚝𝚒𝚖𝚎𝚜 𝚕𝚘𝚟𝚎𝚜 𝚝𝚘 𝚠𝚛𝚒𝚝𝚎 𝚌𝚘𝚍𝚎.
 
 𝙾𝚗𝚕𝚢 𝚘𝚗𝚎 𝚖𝚘𝚝𝚝𝚘 𝚒𝚗 𝚕𝚒𝚏𝚎: 𝚂𝚝𝚛𝚒𝚟𝚎 𝚏𝚘𝚛 𝙶𝚛𝚎𝚊𝚝𝚗𝚎𝚜𝚜 𝚗𝚘𝚝 𝚙𝚘𝚠𝚎𝚛.
-
-𝙿𝚘𝚝𝚎𝚗𝚝𝚒𝚊𝚕 𝚏𝚞𝚝𝚞𝚛𝚎: 𝚂𝚝𝚊𝚛𝚝𝚒𝚗𝚐 𝚊 𝚄𝚗𝚒𝚌𝚘𝚛𝚗 𝚏𝚛𝚘𝚖 𝙷𝚊𝚛𝚟𝚊𝚛𝚍 𝙳𝚘𝚛𝚖 𝚁𝚘𝚘𝚖.
 
 # Stack
 <img title="linux" alt="linux" height="50px" src="logo/linux-logo.png" /><img title="bash" alt="bash" height="50px" src="logo/bash-logo.png" /> <img title="vsc" alt="vsc" height="50px" src="logo/vsc-logo.png" />  <img title="html css js" alt="html css js" height="50px" src="logo/html-css-js-logo.png" /> <img title="react" alt="react" height="50px" src="logo/react-logo.png" /><img title="bootstrap" alt="bootstrap" height="50px" src="logo/bootstrap-logo.png" /> <img title="figma" alt="figma" height="50px" src="logo/figma-logo.png" /> <img title="github" alt="github" height="50px" src="logo/github-logo.png" />
