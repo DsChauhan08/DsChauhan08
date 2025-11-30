@@ -7,7 +7,7 @@
 <h5 align="center">
   <code><a href="mailto:singhdschauhan10@gmail.com" title="Gmail"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"> Gmail</a></code>
   <code><a href="https://hackerone.com/dschauhan08" title="HackerOne Profile"><img width="22" src="https://www.svgrepo.com/show/349400/hackerone.svg"> HackerOne</a></code>
-  <code><a href="https://stackoverflow.com/users/23200727/dhananjay-singh-chauhan" title="Stack Overflow Profile"><img width="22" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg"> Stack Overflow</a></code>
+  <code><a href="https://huggingface.co/dschauhan08" title="Hugginface"><img width="22" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"> HUgginface</a></code>
 </h5>
 
   
