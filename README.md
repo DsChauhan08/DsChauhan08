@@ -35,23 +35,13 @@
 
 ---
 
-## 🜁 Tech Stack
-
-<div>
-  <img height="45" title="JavaScript" src="logo/js.png"> 
-  <img height="45" title="C" src="logo/c.png"> 
-  <img height="45" title="Python" src="logo/py.png"> 
-  <img height="45" title="Zsh" src="logo/zsh.png"> 
-  <img height="45" title="Linux" src="logo/linux-logo.png"> 
-  <img height="45" title="GitHub" src="logo/github-logo.png"> 
-</div>
-
 ### Specialties
 
-* LLM fine-tuning (QLoRA, PEFT, dataset curation)
 * Malware behavior analysis
+* C, Javascript and Java development. occasionally python
 * Networking (subnetting, switching, routing)
 * Nix flakes + system reproducibility
+* LLM fine-tuning (QLoRA, PEFT, dataset curation)
 
 ---
 
