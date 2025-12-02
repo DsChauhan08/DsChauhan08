@@ -11,8 +11,7 @@
 
 ---
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31b5jou5nfje4de5bk7vfy2giihe&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false)](https://github.com/kittinan/spotify-github-profile)
-
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31b5jou5nfje4de5bk7vfy2giihe&cover_image=false&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)
 
 ## 🜂 Whoami
 
