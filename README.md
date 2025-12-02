@@ -1,5 +1,3 @@
-# 🜁 dschauhan08
-
 **NixOS user • reality compiler • LLM enjoyer**
 
 ```
@@ -11,17 +9,15 @@
 ╚═╝  ╚═══╝╚═╝╚═╝  ╚═════╝  ╚═════╝ ╚══════╝
 ```
 
-<p align="center">
-  <a href="https://huggingface.co/dschauhan08"><img width="24" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"> HuggingFace</a> ·
-  <a href="https://www.kaggle.com/olliebearman"><img width="22" src="https://www.kaggle.com/static/images/site-logo.svg"> Kaggle</a> ·
-  <a href="https://gitlab.com/dschauhan08"><img width="22" src="https://about.gitlab.com/images/press/logo/svg/gitlab-logo-700.svg"> GitLab</a>
-</p>
-
 ---
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31b5jou5nfje4de5bk7vfy2giihe&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 ## 🜂 Whoami
 
 **Name:** Dhananjay Singh Chauhan
+<br>
 **Identity:** Lover • Fighter • Breaker • Builder
 
 ### Currently Learning
@@ -45,14 +41,11 @@
 
 ---
 
-## 🜃 Stats (Neofetch but Git‑themed)
-
-<div>
-  <img height=180 src="https://github-readme-stats.vercel.app/api?username=dschauhan08&theme=tokyonight&show_icons=true" />
-  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=dschauhan08&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-</div>
+## 🜃 Stats
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dschauhan08&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<br>
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/0db90a85-4a78-4c76-bf05-b66edd031022" />
 
 ---
 
