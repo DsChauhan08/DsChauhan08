@@ -1,74 +1,101 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Howdy!+👋;it's+Dhananjay......;&center=true&size=30">
-  </a>
-</h1>
+# 🜁 dschauhan08
 
-<h5 align="center">
-  <code><a href="https://www.kaggle.com/olliebearman" title="Kaggle"><img width="22" src="https://www.kaggle.com/static/images/site-logo.svg"> Kaggle</a></code>
-  <code><a href="https://hackerone.com/dschauhan08" title="HackerOne Profile"><img width="22" src="https://www.svgrepo.com/show/349400/hackerone.svg"> HackerOne</a></code>
-  <code><a href="https://huggingface.co/dschauhan08" title="Hugginface"><img width="22" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"> HUgginface</a></code>
-</h5>
+**NixOS user • reality compiler • LLM enjoyer**
 
-  
-  - 𝙽𝚊𝚖𝚎: 𝙳𝚑𝚊𝚗𝚊𝚗𝚓𝚊𝚢 𝚂𝚒𝚗𝚐𝚑 𝙲𝚑𝚊𝚞𝚑𝚊𝚗
-  - 𝙴𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗: 𝚊𝚝𝚝𝚎𝚗𝚍𝚒𝚗𝚐 𝚑𝚒𝚐𝚑𝚜𝚌𝚑𝚘𝚘𝚕, 𝚢𝚎𝚊𝚛 𝟷2
-  - 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐: 𝙵𝚘𝚛𝚎𝚗𝚜𝚒𝚌𝚜 , 𝚖𝚊𝚕𝚠𝚊𝚛𝚎 𝚊𝚜𝚜𝚎𝚜𝚜𝚖𝚎𝚗𝚝
+```
+███╗   ██╗██╗██╗  ██╗ ██████╗  ██████╗ ███████╗        NixOS btw
+████╗  ██║██║╚██╗██╔╝██╔═══██╗██╔════╝ ██╔════╝
+██╔██╗ ██║██║ ╚███╔╝ ██║   ██║██║  ███╗█████╗      > systemctl --user enable greatness
+██║╚██╗██║██║ ██╔██╗ ██║   ██║██║   ██║██╔══╝
+██║ ╚████║██║██╔╝ ██╗╚██████╔╝╚██████╔╝███████╗     aspiring CCNA • Sec+ • malware analyst
+╚═╝  ╚═══╝╚═╝╚═╝  ╚═════╝  ╚═════╝ ╚══════╝
+```
 
-## About me 
+<p align="center">
+  <a href="https://huggingface.co/dschauhan08"><img width="24" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"> HuggingFace</a> ·
+  <a href="https://www.kaggle.com/olliebearman"><img width="22" src="https://www.kaggle.com/static/images/site-logo.svg"> Kaggle</a> ·
+  <a href="https://gitlab.com/dschauhan08"><img width="22" src="https://about.gitlab.com/images/press/logo/svg/gitlab-logo-700.svg"> GitLab</a>
+</p>
 
-𝙽𝚘𝚝 𝚢𝚘𝚞𝚛 𝚓𝚞𝚜𝚝 𝚊𝚗𝚘𝚝𝚑𝚎𝚛 𝚑𝚒𝚐𝚑-𝚜𝚌𝚑𝚘𝚘𝚕 𝚜𝚝𝚞𝚍𝚎𝚗𝚝;
-𝙸 𝚊𝚖 𝚊 𝚊𝚖𝚒𝚍 𝚛𝚎𝚊𝚍𝚎𝚛, 𝙿𝚑𝚒𝚕𝚘𝚜𝚘𝚙𝚑𝚎𝚛, 𝚆𝚛𝚒𝚝𝚎𝚛 𝚊𝚗𝚍 𝚂𝚃𝙴𝙼 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚠𝚑𝚘 𝚜𝚘𝚖𝚎𝚝𝚒𝚖𝚎𝚜 𝚕𝚘𝚟𝚎𝚜 𝚝𝚘 𝚠𝚛𝚒𝚝𝚎 𝚌𝚘𝚍𝚎.
+---
 
-𝙾𝚗𝚕𝚢 𝚘𝚗𝚎 𝚖𝚘𝚝𝚝𝚘 𝚒𝚗 𝚕𝚒𝚏𝚎: 𝚂𝚝𝚛𝚒𝚟𝚎 𝚏𝚘𝚛 𝙶𝚛𝚎𝚊𝚝𝚗𝚎𝚜𝚜 𝚗𝚘𝚝 𝚙𝚘𝚠𝚎𝚛.
+## 🜂 Whoami
 
-# Stack
-<img title="linux" alt="linux" height="50px" src="logo/linux-logo.png" /><img title="bash" alt="bash" height="50px" src="logo/bash-logo.png" /> <img title="vsc" alt="vsc" height="50px" src="logo/vsc-logo.png" />  <img title="html css js" alt="html css js" height="50px" src="logo/html-css-js-logo.png" /> <img title="react" alt="react" height="50px" src="logo/react-logo.png" /><img title="bootstrap" alt="bootstrap" height="50px" src="logo/bootstrap-logo.png" /> <img title="figma" alt="figma" height="50px" src="logo/figma-logo.png" /> <img title="github" alt="github" height="50px" src="logo/github-logo.png" />
+**Name:** Dhananjay Singh Chauhan
+**Identity:** Lover • Fighter • Breaker • Builder
 
+### Currently Learning
 
-# Stats
+* CCNA (Network Fundamentals, Routing, Switching)
+* CompTIA Security+ (Threats, Attacks, Hardening)
+* Malware Analysis & DFIR
+* LLM architecture, fine-tuning, prompt engineering
+
+**Philosophy:** Write code like a stoic. Configure systems like a monk. Break things like a scientist.
+
+---
+
+## 🜁 Tech Stack
 
 <div>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dschauhan08" />
+  <img height="45" title="JavaScript" src="logo/js.png"> 
+  <img height="45" title="C" src="logo/c.png"> 
+  <img height="45" title="Python" src="logo/py.png"> 
+  <img height="45" title="Zsh" src="logo/zsh.png"> 
+  <img height="45" title="Linux" src="logo/linux-logo.png"> 
+  <img height="45" title="GitHub" src="logo/github-logo.png"> 
+</div>
 
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dschauhan08&layout=compact&langs_count=8&card_width=320" />
-</a>
-  </div>
+### Specialties
+
+* LLM fine-tuning (QLoRA, PEFT, dataset curation)
+* Malware behavior analysis
+* Networking (subnetting, switching, routing)
+* Nix flakes + system reproducibility
+
+---
+
+## 🜃 Stats (Neofetch but Git‑themed)
+
+<div>
+  <img height=180 src="https://github-readme-stats.vercel.app/api?username=dschauhan08&theme=tokyonight&show_icons=true" />
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=dschauhan08&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</div>
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dschauhan08&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
+---
 
-# Personal library
-## Current read
-<pre>
-https://learn.javascript.ru/
-https://www.freecodecamp.org/
-<i>Project Odin</i>                    
-<i>Meditation by Marcus Aurelius</i>
-<i>Think and Grow Rich</i>
-<i>Shreemad Bhagwat Geeta</i>
-</pre>
+## 📚 Personal Library
 
-## From-cover-to-cover
-<pre>
-<i>Grokking Algorithms</i>
-<i>Design Patterns: Elements of Reusable Object-Oriented Software </i>
-<i>Discourses by Epictetus</i>                                                                                                                                       
-<i>Javascript: The good part</i> 
-</pre>
+*I read code and books with equal hostility.*
 
-## Had a glance betweens the pages
-<pre>
-<i>Effective C</i>                                                          
-<i>Pointers in C</i>                                                        
-<i>Influence: The psychology of persuation</i>                              
-<i>Sell or be sold </i>                                                   
-<i>The $100 startup</i> series                                             
-<i>Zero to One</i>                                                     
-<i>Modern Full-Stack Development</i>                                  
+### 📖 Currently Reading
 
-</pre>
-  
+* [https://learn.javascript.ru/](https://learn.javascript.ru/)
+* [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
+* Project Odin
+* *Meditations* — Marcus Aurelius
+* *Think and Grow Rich*
+* *Shreemad Bhagwat Geeta*
+
+### ✔ Completed (Cover → Cover)
+
+* *Grokking Algorithms*
+* *Design Patterns (GOF)*
+* *Discourses* — Epictetus
+* *JavaScript: The Good Parts*
+
+### 👀 Browse‑Only (for now)
+
+* *Effective C*
+* *Pointers in C*
+* *Influence — Psychology of Persuasion*
+* *Sell or Be Sold*
+* *The $100 Startup* series
+* *Zero to One*
+* *Modern Full‑Stack Development*
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
