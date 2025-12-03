@@ -43,8 +43,6 @@
 ## 🜃 Stats
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dschauhan08&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-<br>
-<img width="100%" alt="image" src="https://github.com/user-attachments/assets/0db90a85-4a78-4c76-bf05-b66edd031022" />
 
 ---
 
